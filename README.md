@@ -1,1 +1,0 @@
-# nord_places-app
